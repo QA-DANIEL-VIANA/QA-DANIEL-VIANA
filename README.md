@@ -11,10 +11,11 @@ Também sou aluno da Anhembi Morumbi, uma universidade que possui nota máxima n
 * 🌍 Moro em Santa Catarina, Brasil
 * ✉️ Pode contactar-me em [daniel.qa.viana@gmail.com](mailto:daniel.qa.viana@gmail.com)
 * 🚀 Atualmente realizando alguns trabalhos iniciais como freelancer para empresas como analista de testes JR
-* 🧠 Aperfeiçoando conhecimento em Robot framework (avançado), metodologia ágeis -SCRUM (já certificado), JIRA e padronização de escrita dos cenários de testes em BDD Gherkin (Conhecimento), dentre outras ferramentas.
+* 🧠 Aperfeiçoando conhecimento em Robot framework (avançado), metodologia ágeis -SCRUM (já certificado), JIRA e padronização de escrita dos cenários de testes em 
+      BDD Gherkin (Conhecimento), dentre outras ferramentas.
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡ Amo estar em família e adoro tocar instrumentos como violão, baixo e bateria.
 
-* ## 💻 Tecnologias
+ ## 💻 Tecnologias
 
-* <p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
