@@ -16,7 +16,7 @@ Também sou aluno da Anhembi Morumbi, uma universidade que possui nota máxima n
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡ Amo estar em família e adoro tocar instrumentos como violão, baixo e bateria.
 
- ## 💻 Tecnologias
+ ### Habilidades
 
 * <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" /> <br/>
 * <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <br/>
