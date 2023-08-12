@@ -1,5 +1,6 @@
 Olá 👋 Meu nome é Daniel
 ============================
+<a href="https://www.linkedin.com/in/daniel-vianna-8a646a285" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 
 Analista de Teste JR (QA)
 ------------------------
