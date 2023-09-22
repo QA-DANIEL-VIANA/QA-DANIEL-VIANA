@@ -5,7 +5,7 @@ Olá 👋 Meu nome é Daniel
 Analista de Teste JR (QA)
 ------------------------
 
-Sou estudante de Engenharia mecânica, buscando migrar para a área de qualidade de software como analista de testes (QA). Comecei a estudar, pesquisar e estudar a área que envolve qualidade de software, especificamente área de testes automatizados, realizando testes web e em aplicações que impactam a vida de milhares de usuários.
+Sou estudante de graduação desenvolvimento full stack, buscando migrar para a área de qualidade de software como analista de testes (QA). Comecei a estudar, pesquisar e estudar a área que envolve qualidade de software, especificamente área de testes automatizados, realizando testes web e em aplicações que impactam a vida de milhares de usuários.
 
 Também sou aluno da Anhembi Morumbi, uma universidade que possui nota máxima no MEC  e mais de 300 unidades espalhadas em todo Brasil. (https://portal.anhembi.br/institucional/)
 
