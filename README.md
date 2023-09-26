@@ -22,6 +22,7 @@ Sou estudante do curso de graduação em desenvolvimento full stack, e atuo como
 * <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/> <br/>
 * <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <br/>
 * <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+* Dentre outras.
 
 ### Socials
 
